@@ -33,7 +33,7 @@ const Hero = () => (
           transition={{ delay: 0.2 }}
           className="text-[#e85d26] font-semibold text-sm uppercase tracking-[0.3em] mb-4"
         >
-          New Collection — 2025
+          New Collection — 2026
         </motion.p>
 
         <motion.h1
